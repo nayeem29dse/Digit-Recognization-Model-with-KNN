@@ -8,7 +8,7 @@ This project walks through the full pipeline of a simple image classification ta
 
 1. Load and explore the MNIST dataset of handwritten digits (0–9).
 2. Preprocess the images (normalization, flattening).
-3. Train a KNN classifier on the training set
+3. Train a KNN classifier on the training set.
 4. Evaluate accuracy on the held-out test set
 5. Save the trained model
 6. Load the saved model and test it on a real, custom digit image (`sp1.png`)
